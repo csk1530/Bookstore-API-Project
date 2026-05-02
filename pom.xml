@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.bike</groupId>
+  <artifactId>bike-web</artifactId>
+  <version>1.0</version>
+  <packaging>war</packaging>
+
+  <build>
+    <finalName>bike-web</finalName>
+  </build>
+</project>
